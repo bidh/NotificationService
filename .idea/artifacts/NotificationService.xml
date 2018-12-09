@@ -9,6 +9,7 @@
         </element>
         <element id="directory" name="lib">
           <element id="library" level="project" name="Jersey-2.2" />
+          <element id="library" level="project" name="com.nexmo:client:4.0.0" />
         </element>
       </element>
     </root>
